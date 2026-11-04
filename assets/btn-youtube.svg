@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125 44" width="125" height="44" role="img" aria-label="YouTube">
+<style>.l { font: 600 16px 'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; fill: #ededf2; }</style>
+<rect x="1" y="1" width="123" height="42" rx="21" fill="#11111a" stroke="#2e2e3a"/>
+<g transform="translate(18, 12) scale(.83)" fill="none" stroke="#8b7bff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="m10 9 5 3-5 3V9Z"/></g>
+<text class="l" x="46" y="28">YouTube</text>
+</svg>

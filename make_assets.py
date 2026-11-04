@@ -163,6 +163,8 @@ BTN_ICONS = {
     'web': '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/>',
     'linkedin': '<rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/>',
     'instagram': '<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5h.01"/>',
+    'facebook': '<path d="M15 3h-2.5A4.5 4.5 0 0 0 8 7.5V10H5.5v4H8v7h4v-7h3l.5-4H12V7.8c0-.5.4-.8.8-.8H15V3Z"/>',
+    'youtube': '<rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="m10 9 5 3-5 3V9Z"/>',
     'mail': '<rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/>',
     'coffee': '<path d="M4 9h13v4a6 6 0 0 1-6 6h-1a6 6 0 0 1-6-6V9Z"/><path d="M17 10h1.5a2.5 2.5 0 0 1 0 5H17M7 2.5v3M10.5 2.5v3M14 2.5v3"/>',
     'netsuite': '<ellipse cx="12" cy="5.5" rx="8" ry="3"/><path d="M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"/>',
@@ -187,7 +189,8 @@ if __name__ == '__main__':
     (ASSETS / 'banner.svg').write_text(banner(), encoding='utf-8')
     for name, label, icon, primary, accent in [
         ('web', 'irodoriciel.dev', 'web', True, '#8b7bff'), ('linkedin', 'LinkedIn', 'linkedin', False, '#8b7bff'),
-        ('instagram', 'Instagram', 'instagram', False, '#8b7bff'), ('mail', 'Correo', 'mail', False, '#8b7bff'),
+        ('instagram', 'Instagram', 'instagram', False, '#8b7bff'), ('facebook', 'Facebook', 'facebook', False, '#8b7bff'),
+        ('youtube', 'YouTube', 'youtube', False, '#8b7bff'), ('mail', 'Correo', 'mail', False, '#8b7bff'),
         ('coffee', 'Invítame un café', 'coffee', False, '#ffdd00'), ('netsuite', 'NetSuite · SuiteScript · SuiteQL', 'netsuite', False, '#3ee7c4')]:
         (ASSETS / f'btn-{name}.svg').write_text(button(label, icon, primary, accent), encoding='utf-8')
     for key, (text, num) in {'about': ('Sobre mí', '01 — SOBRE MÍ'), 'projects': ('Proyectos', '02 — PROYECTOS'),
