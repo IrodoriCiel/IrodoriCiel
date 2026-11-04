@@ -8,6 +8,10 @@
   <a href="https://www.instagram.com/irodoriciel/"><img src="assets/btn-instagram.svg" height="40" alt="Instagram"></a>
   <a href="https://www.facebook.com/irodoriciel/"><img src="assets/btn-facebook.svg" height="40" alt="Facebook"></a>
   <a href="https://www.youtube.com/channel/UCqB1GFhNF_bHB3zFCUu1a2Q"><img src="assets/btn-youtube.svg" height="40" alt="YouTube"></a>
+  <a href="https://x.com/irodoriciel"><img src="assets/btn-x.svg" height="40" alt="X"></a>
+  <a href="https://www.twitch.tv/irodoriciel"><img src="assets/btn-twitch.svg" height="40" alt="Twitch"></a>
+  <a href="https://www.tiktok.com/@irodoriciel"><img src="assets/btn-tiktok.svg" height="40" alt="TikTok"></a>
+  <a href="https://steamcommunity.com/id/irodoriciel"><img src="assets/btn-steam.svg" height="40" alt="Steam"></a>
   <a href="mailto:irodori.ciel@gmail.com"><img src="assets/btn-mail.svg" height="40" alt="Correo"></a>
   <a href="https://buymeacoffee.com/miguelgarcia93"><img src="assets/btn-coffee.svg" height="40" alt="Invítame un café"></a>
 </p>
@@ -36,7 +40,7 @@ y escribo sobre música japonesa en Japan Pulse.
       <h3>NetSuite Full Tools</h3>
       Más de 100 herramientas para el día a día en NetSuite: editor de SuiteQL, asistente con IA, visor de registros, modo oscuro y atajos.
       <br><br>
-      <code>JavaScript</code> <code>Manifest V3</code> <code>IA</code> <code>ES · EN</code>
+      <code>JavaScript</code> <code>Manifest V3</code> <code>ES · EN</code> <code>1 K usuarios</code> <code>5.0 estrellas</code>
       <br><br>
       <a href="https://netsuitefulltools.com"><b>Sitio web</b></a> · <a href="https://chromewebstore.google.com/detail/netsuite-full-tools/fgldkomofdfcmkccjgalihlollndjmcc"><b>Chrome Web Store</b></a>
     </td>
