@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211 44" width="211" height="44" role="img" aria-label="Invítame un café">
+<style>.l { font: 600 16px 'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; fill: #ededf2; }</style>
+<rect x="1" y="1" width="209" height="42" rx="21" fill="#11111a" stroke="#2e2e3a"/>
+<g transform="translate(18, 12) scale(.83)" fill="none" stroke="#ffdd00" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h13v4a6 6 0 0 1-6 6h-1a6 6 0 0 1-6-6V9Z"/><path d="M17 10h1.5a2.5 2.5 0 0 1 0 5H17M7 2.5v3M10.5 2.5v3M14 2.5v3"/></g>
+<text class="l" x="46" y="28">Invítame un café</text>
+</svg>

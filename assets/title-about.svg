@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 84" width="900" height="84" role="img" aria-label="Sobre mí">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b7bff"/><stop offset="1" stop-color="#3ee7c4"/></linearGradient></defs>
+<style>
+  .num { font: 600 15px 'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; fill: #8b7bff; letter-spacing: 1.5px; }
+  .t { font: 800 38px 'Segoe UI', 'Helvetica Neue', system-ui, -apple-system, Arial, sans-serif; fill: #8b7bff; letter-spacing: -.8px; }
+  .t2 { font: 800 38px 'Segoe UI', 'Helvetica Neue', system-ui, -apple-system, Arial, sans-serif; letter-spacing: -.8px; opacity: 0; }
+  .c { fill: #3ee7c4; animation: ga 7s steps(1) infinite 2s; }
+  .p { fill: #ff5ca0; animation: gb 7s steps(1) infinite 2s; }
+  @keyframes ga { 0%, 92%, 100% { opacity: 0; transform: none; } 93% { opacity: .7; transform: translate(-3px, 0); clip-path: inset(15% 0 55% 0); } 95% { transform: translate(3px, 0); clip-path: inset(60% 0 15% 0); } 97% { opacity: 0; } }
+  @keyframes gb { 0%, 92%, 100% { opacity: 0; transform: none; } 93% { opacity: .6; transform: translate(3px, 0); clip-path: inset(55% 0 20% 0); } 95% { transform: translate(-3px, 0); clip-path: inset(20% 0 60% 0); } 97% { opacity: 0; } }
+  .line { animation: grow 1.6s ease-out both; transform-origin: 84px 0; }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="2" y="12" width="60" height="60" rx="16" fill="#8b7bff" fill-opacity=".12" stroke="#8b7bff" stroke-opacity=".35"/>
+<g transform="translate(17, 27)" fill="none" stroke="#8b7bff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><g transform="scale(1.25)"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></g></g>
+<text class="num" x="84" y="32">01 — SOBRE MÍ</text>
+<text class="t" x="84" y="70" fill="url(#g)" style="fill:url(#g)">Sobre mí</text>
+<text class="t2 c" x="84" y="70">Sobre mí</text>
+<text class="t2 p" x="84" y="70">Sobre mí</text>
+</svg>

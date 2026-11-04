@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 202 44" width="202" height="44" role="img" aria-label="irodoriciel.dev">
+<style>.l { font: 600 16px 'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; fill: #08080c; }</style>
+<rect x="1" y="1" width="200" height="42" rx="21" fill="#ededf2" stroke="#ededf2"/>
+<g transform="translate(18, 12) scale(.83)" fill="none" stroke="#08080c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></g>
+<text class="l" x="46" y="28">irodoriciel.dev</text>
+</svg>
