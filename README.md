@@ -111,7 +111,7 @@ y escribo sobre música japonesa en Japan Pulse.
 - **AI for Research and Insights** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/E271IU5TS27Z)
 - **AI for Writing and Communicating** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/J2HQZUJN6XMB)
 - **Introducción al Desarrollo de Aplicaciones con Spring** (seminario TIC) · UNAM · DGTIC — feb 2022
-- **Java Full Stack Developer** (Spring Boot + Angular) · MitoCode — nov 2021
+- **Java Full Stack Developer** (Spring Boot + Angular) · MitoCode — nov 2021 · [validar](https://mitocode.com/certificados/#/check/b8ii0sucme4hqlv)
 
 [Ver todas las constancias en mi portafolio →](https://irodoriciel.dev/#trayectoria)
 
