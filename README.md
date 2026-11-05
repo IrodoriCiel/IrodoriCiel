@@ -100,6 +100,7 @@ y escribo sobre música japonesa en Japan Pulse.
 **Formación**
 
 - **Desarrollo con IA: Programa con Agentes** · BIG school · MoureDev — 2026
+- **IA aplicada al trabajo** (4 cursos de Google: AI Fundamentals, Brainstorming and Planning, Research and Insights, Writing and Communicating) · Google · Coursera — 2026
 - **Java Full Stack Developer** (Spring Boot + Angular) · MitoCode — 2021
 - **Diplomado en desarrollo de sistemas con tecnología Java** · UNAM · DGTIC — 2020
 - **Lic. en Sistemas Computacionales** · Universidad Autónoma del Estado de Hidalgo — 2012–2016
