@@ -105,6 +105,7 @@ y escribo sobre música japonesa en Japan Pulse.
 **Certificaciones**
 
 - **Desarrollo con IA: Programa con Agentes** · BIG school · MoureDev — nov 2026
+- **AI for Data Analysis** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/ZRZGLJ54CTG0)
 - **AI for Content Creation** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/UBVJLXX0E958)
 - **AI Fundamentals** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/9Q6C7TYJZZNI)
 - **AI for Brainstorming and Planning** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/NOCL1GR3DQOW)
