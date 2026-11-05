@@ -75,7 +75,7 @@ y escribo sobre música japonesa en Japan Pulse.
 
 <img src="assets/title-journey.svg" height="72" alt="Trayectoria">
 
-**Experiencia**
+**Experiencia laboral**
 
 - **NetSuite Developer** · CERBERUSTECK — ago 2022 – actualidad · remoto
   <details>
@@ -97,13 +97,22 @@ y escribo sobre música japonesa en Japan Pulse.
   </details>
 - **Programador** · Facultad de Estudios Superiores Iztacala, UNAM — desde jul 2017
 
-**Formación**
+**Educación**
 
-- **Desarrollo con IA: Programa con Agentes** · BIG school · MoureDev — 2026
-- **IA aplicada al trabajo** (4 cursos de Google: AI Fundamentals, Brainstorming and Planning, Research and Insights, Writing and Communicating) · Google · Coursera — 2026
-- **Java Full Stack Developer** (Spring Boot + Angular) · MitoCode — 2021
 - **Diplomado en desarrollo de sistemas con tecnología Java** · UNAM · DGTIC — 2020
 - **Lic. en Sistemas Computacionales** · Universidad Autónoma del Estado de Hidalgo — 2012–2016
+
+**Certificaciones**
+
+- **Desarrollo con IA: Programa con Agentes** · BIG school · MoureDev — nov 2026
+- **AI Fundamentals** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/9Q6C7TYJZZNI)
+- **AI for Brainstorming and Planning** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/NOCL1GR3DQOW)
+- **AI for Research and Insights** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/E271IU5TS27Z)
+- **AI for Writing and Communicating** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/J2HQZUJN6XMB)
+- **Introducción al Desarrollo de Aplicaciones con Spring** (seminario TIC) · UNAM · DGTIC — feb 2022
+- **Java Full Stack Developer** (Spring Boot + Angular) · MitoCode — nov 2021
+
+[Ver todas las constancias en mi portafolio →](https://irodoriciel.dev/#trayectoria)
 
 <br>
 
