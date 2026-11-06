@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://irodoriciel.dev"><img src="assets/btn-web.svg" height="40" alt="irodoriciel.dev"></a>
-  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-garc%C3%ADa-figueroa/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/irodoriciel/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/irodoriciel/"><img src="assets/btn-instagram.svg" height="40" alt="Instagram"></a>
   <a href="https://www.facebook.com/irodoriciel/"><img src="assets/btn-facebook.svg" height="40" alt="Facebook"></a>
   <a href="https://www.youtube.com/channel/UCqB1GFhNF_bHB3zFCUu1a2Q"><img src="assets/btn-youtube.svg" height="40" alt="YouTube"></a>
@@ -143,7 +143,7 @@ Si tienes otra idea que se resuelva con una herramienta, una extensión o una ap
 
 <p>
   <a href="mailto:irodori.ciel@gmail.com"><img src="assets/btn-mail.svg" height="40" alt="Correo"></a>
-  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-garc%C3%ADa-figueroa/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/irodoriciel/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
   <a href="https://buymeacoffee.com/miguelgarcia93"><img src="assets/btn-coffee.svg" height="40" alt="Invítame un café"></a>
 </p>
 
