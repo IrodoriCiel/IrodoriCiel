@@ -104,6 +104,7 @@ y escribo sobre música japonesa en Japan Pulse.
 
 **Certificaciones**
 
+- **Start the UX Design Process: Empathize, Define, and Ideate** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/VLRXJ6CRTX8E)
 - **Foundations of User Experience (UX) Design** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/RN5JXMH91U3L)
 - **Desarrollo con IA: Programa con Agentes** · BIG school · MoureDev — nov 2026
 - **Google AI · Certificado profesional** (8 cursos) · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/verify/professional-cert/569682KSC4TU)
