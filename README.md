@@ -104,6 +104,7 @@ y escribo sobre música japonesa en Japan Pulse.
 
 **Certificaciones**
 
+- **Conduct UX Research and Test Early Concepts** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/RM6VWN6AJKB8)
 - **Build Wireframes and Low-Fidelity Prototypes** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/SV53R8QUD5TU)
 - **Start the UX Design Process: Empathize, Define, and Ideate** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/VLRXJ6CRTX8E)
 - **Foundations of User Experience (UX) Design** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/RN5JXMH91U3L)
