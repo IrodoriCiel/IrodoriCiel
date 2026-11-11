@@ -104,6 +104,10 @@ y escribo sobre música japonesa en Japan Pulse.
 
 **Certificaciones**
 
+<a href="https://www.credly.com/badges/5398f944-123b-4144-895f-58a70363e6aa/public_url"><img src="https://images.credly.com/size/110x110/images/e26a2f72-b88a-403e-8766-0fec9dd8f3cc/blob" width="90" alt="Google UX Design Professional Certificate"></a> <a href="https://www.credly.com/badges/1eb80eda-d38d-4431-a9ff-9f20927c56e3/public_url"><img src="https://images.credly.com/size/110x110/images/36ecc7ff-8ccf-4bd8-83a7-6f35797e0b64/blob" width="90" alt="Google AI Fundamentals"></a>
+
+Insignias verificables en [Credly](https://www.credly.com/users/miguel-angel-garcia-figueroa).
+
 - **Google UX Design · Certificado profesional** (8 cursos) · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/verify/professional-cert/7GIN97L733U3)
 - **Accelerate Your Job Search with AI** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/866FGXZ322XI)
 - **Design a User Experience for Social Good & Prepare for Jobs** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/BJKHEX1458V9)
