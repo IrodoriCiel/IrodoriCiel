@@ -104,6 +104,7 @@ y escribo sobre música japonesa en Japan Pulse.
 
 **Certificaciones**
 
+- **Design a User Experience for Social Good & Prepare for Jobs** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/BJKHEX1458V9)
 - **Build Dynamic User Interfaces (UI) for Websites** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/COGUKQ1RRHIB)
 - **Create High-Fidelity Designs and Prototypes in Figma** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/AWKGIE2PIJWW)
 - **Conduct UX Research and Test Early Concepts** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/RM6VWN6AJKB8)
