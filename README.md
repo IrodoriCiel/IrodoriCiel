@@ -104,6 +104,8 @@ y escribo sobre música japonesa en Japan Pulse.
 
 **Certificaciones**
 
+- **Google UX Design · Certificado profesional** (8 cursos) · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/verify/professional-cert/7GIN97L733U3)
+- **Accelerate Your Job Search with AI** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/866FGXZ322XI)
 - **Design a User Experience for Social Good & Prepare for Jobs** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/BJKHEX1458V9)
 - **Build Dynamic User Interfaces (UI) for Websites** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/COGUKQ1RRHIB)
 - **Create High-Fidelity Designs and Prototypes in Figma** · Google · Coursera — nov 2026 · [validar](https://www.coursera.org/account/accomplishments/verify/AWKGIE2PIJWW)
